@@ -36,7 +36,7 @@ def load_modules():
 
 
 def get_answer(body):
-   message = "Прости, не понимаю тебя. Напиши 'помощь', чтобы узнать мои команды"
+   message = "Я не понял. Ты можешь перефразировать?&#9786; Напиши 'помощь', чтобы узнать мои команды"
    attachment = ''
    distance = len(body)
    command = None

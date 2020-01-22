@@ -1,6 +1,5 @@
 import command_system
 
-
 def info():
     message = ''
     for c in command_system.command_list:
@@ -10,6 +9,6 @@ def info():
 
 info_command = command_system.Command()
 
-info_command.keys = ['помощь', 'помоги', 'help']
-info_command.description = 'Покажу список команд'
+info_command.keys = ['помощь', 'команды', 'help', 'хелп', 'info', 'не понял', 'как']
+info_command.description = 'покажу список команд'
 info_command.process = info

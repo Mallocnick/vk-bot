@@ -1,3 +1,0 @@
-token = '1c341298577ae5ed9ce389701a895f90e390041dcaf6ffaf2c267f40ace1058daea618491febeaade8975'
-confirmation_token = '4c6b8364'
-access_token = 'cf2a0a04cf2a0a04cf2a0a04c7cf4537d5ccf2acf2a0a04910d622d48bba7332f8ee5b9'
