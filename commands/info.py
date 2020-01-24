@@ -12,3 +12,4 @@ info_command = command_system.Command()
 info_command.keys = ['помощь', 'команды', 'help', 'хелп', 'info', 'не понял', 'как']
 info_command.description = 'покажу список команд'
 info_command.process = info
+#info
